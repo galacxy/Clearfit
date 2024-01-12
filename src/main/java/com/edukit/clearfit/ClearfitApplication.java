@@ -1,0 +1,13 @@
+package com.edukit.clearfit;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ClearfitApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ClearfitApplication.class, args);
+    }
+
+}
