@@ -2,6 +2,10 @@
 
 ### Reference Documentation
 
+#### Github
+1. Repo: https://github.com/galacxy/Clearfit
+2. Git clone url: https://github.com/galacxy/Clearfit.git
+
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
